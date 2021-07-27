@@ -1,0 +1,21 @@
+body {
+  background-color: #EAF6F6;
+}
+hr {
+    /* Browsers apply some defalut CSS and in this case browser set border-style of hr "inset" and I changed it to dotted border*/
+    /* For the rest of the sides border is none */
+    border-style: none;
+    /* Setting top of the border of rectangle of horizontal line dotted*/
+    border-top: dotted;
+    border-color: grey;
+    border-width: 5px;
+    /* height: 0px; */
+    /* height of the rectangle box of hr */
+    width: 5%;
+}
+h1 {
+  color: #66BFBF;
+}
+h3 {
+  color: #66BFBF;
+}
